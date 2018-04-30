@@ -44,7 +44,7 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
     # If name is not set, author is used
     # name = "Jane Powers"
     # Avatars can be written to images/avatars/
-    avatar = "empty.png"
+    avatar = "ww.png"
     position = "Computer Scientist"
     # livesIn = "[Paris, France](#some-maps-url)"
     livesIn = "Paris, France"
@@ -112,6 +112,12 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
     title = "GitHub"
     icon = "fa-github"
     link = "https://github.com/theolaurent"
+    target = "_blank"
+
+  [[params.social]]
+    title = "EMail"
+    icon = "fa-at"
+    link = "snippet.txt"
     target = "_blank"
 
   # [[params.social]]
