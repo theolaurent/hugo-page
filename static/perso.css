@@ -1,0 +1,43 @@
+/* a fix to get the center effect of the HTML5 UP theme */
+html, body {
+    height: 100%;
+}
+
+/* really sober background */
+body {
+    background: none;
+    background-color: #404040;
+}
+
+/* change biography look (I use it for a quote) */
+#main .biography {
+    text-align: left;
+    padding: 2em;
+}
+#main .biography > em {
+    display: block;
+    width: 100%;
+    text-align: right;
+}
+
+/* some small size tweaks for position */
+#main {
+    padding-top: 3em;
+    padding-bottom: 1em;
+}
+
+#main .position {
+    margin-bottom: 0.5em;
+}
+
+#main .position + ul {
+    margin-bottom: 0;
+}
+
+#main .position + ul li {
+    padding-bottom: 0;
+}
+
+#main .biography {
+    margin-bottom: 0;
+}

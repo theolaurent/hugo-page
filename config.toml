@@ -31,6 +31,7 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
   # Link custom assets relative to /static
   #custom_js  = [""]
   # custom_css = ["background.css", "icons.css"]
+  custom_css = ["perso.css"]
 
   # Customization switches
   # Overwrite FontAwesome: see icons.css
@@ -48,12 +49,13 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
     # livesIn = "[Paris, France](#some-maps-url)"
     livesIn = "Paris, France"
     scope = [
-        "Member of [INRIA](#) Prosecco Team",
-        # "Type systems enthusiast",
+        # "Member of [INRIA](https://www.inria.fr/) [Prosecco](https://en.wikipedia.org/wiki/Prosecco) [Team](http://prosecco.gforge.inria.fr/)",
+        "Member of [Inria Prosecco team](http://prosecco.gforge.inria.fr/)",
+        "Logic [/](https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence) Type systems enthusiast",
       ]
     biography = """\"All livings are mortal.<br />
-    Socrates is not living.<br />
-    Therefore, Socrates is not mortal.\"<br/>
+    &nbsp;Socrates is not living.<br />
+    &nbsp;Therefore, Socrates is not mortal.\"<br/>
     *-- Les Shadoks*"""
 
   # Contact form settings
