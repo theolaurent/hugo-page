@@ -6,7 +6,6 @@ html, body {
 /* background (cf https://css-tricks.com/perfect-full-page-background-image/) */
 body {
     background: none;
-    background-color: rgba(0, 0, 0, 0.3);
 }
 html {
     background: url(https://picsum.photos/1920/1080/?random=true&blur=true) no-repeat center center fixed;
@@ -17,6 +16,17 @@ html {
     background-size: cover;
     background-color: #606060; /* fallback*/
 }
+html:after {
+    content: "";
+    display: block;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
 /* change biography look (I use it for a quote) */
 #main .biography {
     text-align: left;
