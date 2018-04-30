@@ -139,6 +139,14 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
     text = "Design by"
     link = "https://html5up.net"
 
+  [[params.credits]]
+    # Title is used as URL text
+    title = "Lorem Picsum"
+    # Text will be used to explain the credit
+    text = "Photos from"
+    link = "https://picsum.photos/"
+
+
   # Optional piwik tracking
   #[params.analytics.piwik]
   #  URL = "https://stats.example.com"
