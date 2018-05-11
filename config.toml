@@ -53,10 +53,10 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
         "Member of [Inria Prosecco team](http://prosecco.gforge.inria.fr/)",
         "Logic [/](https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence) Type systems enthusiast",
       ]
-    biography = """\"All livings are mortal.<br />
+    biography = """\"Only livings are mortal.<br />
     &nbsp;Socrates is not living.<br />
     &nbsp;Therefore, Socrates is not mortal.\"<br/>
-    *-- Les Shadoks*"""
+    <cite>-- Inspired from *Les Shadoks*</cite>"""
 
   # Contact form settings
 

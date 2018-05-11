@@ -32,7 +32,8 @@ html:after {
     text-align: left;
     padding: 2em;
 }
-#main .biography > em {
+
+#main .biography cite {
     display: block;
     width: 100%;
     text-align: right;
