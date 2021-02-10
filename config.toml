@@ -1,7 +1,7 @@
-baseURL = "https://example.com"
+baseURL = "https://www.theolaurent.fr"
 languageCode = "en"
 DefaultContentLanguage = "en"
-title = "Website of Jane Doe"
+title = "Website of Théo Laurent"
 theme = "anatole"
 summarylength = 10
 enableEmoji = true
@@ -19,10 +19,10 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 
 [params]
-title = "I'm Jane Doe"
-author = "Jane Doe"
+title = "Théo Laurent"
+author = "Théo Laurent"
 #copyright = "2020-2021"
-description = "Call me Jane"
+description = "PhD Student @ INRIA Paris"
 profilePicture = "images/profile.jpg"
 keywords = ""
 favicon = "favicons/"
@@ -30,9 +30,9 @@ favicon = "favicons/"
 customCss = []
 # example ["js/custom.js"]
 customJs = [] 
-mainSections = ["post"]
-images = ["images/site-feature-image.png"]
-doNotLoadAnimations = false
+mainSections = [""]
+images = [""]
+doNotLoadAnimations = true
 # Form Spree Contact Form
 #contactFormAction = "https://formspree.io/f/your-form-hash-here"
 # Google Site Verify
@@ -53,24 +53,19 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 ## Social links
 # use 'fab' when brand icons, use 'fas' when standard solid icons.
 [[params.socialIcons]]
-icon = "fab fa-linkedin"
-title = "Linkedin"
-url = "https://de.linkedin.com/"
+icon = "fab fa-gitlab"
+title = "INRIA GitLab"
+url = "https://gitlab.inria.fr/tlaurent"
 
 [[params.socialIcons]]
 icon = "fab fa-github"
 title = "GitHub"
-url = "https://github.com/lxndrblz/anatole/"
-
-[[params.socialIcons]]
-icon = "fab fa-instagram"
-title = "instagram"
-url = "https://www.instagram.com/"
+url = "https://github.com/theolaurent/"
 
 [[params.socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
-url = "mailto:mail@alexbilz.com"
+url = "mailto:theo.laurent@inria.fr"
 
 ## Menu items
 
@@ -82,20 +77,8 @@ url = "mailto:mail@alexbilz.com"
   weight = 100
   url = "/"
 
-  [[menu.main]]
-  name = "Posts"
-  weight = 200
-  identifier = "posts"
-  url = "/post/"
-
-  [[menu.main]]
-  name = "About"
-  weight = 300
-  identifier = "about"
-  url = "/about/"
-
-  [[menu.main]]
-  name = "Contact"
-  weight = 400
-  identifier = "contact"
-  url = "/contact/"
+  # [[menu.main]]
+  # name = "Posts"
+  # weight = 200
+  # identifier = "posts"
+  # url = "/post/"
