@@ -1,4 +1,4 @@
-baseURL = "http://www.theolaurent.fr"
+baseURL = "https://www.theolaurent.fr"
 languageCode = "en"
 DefaultContentLanguage = "en"
 title = "Website of Théo Laurent"
