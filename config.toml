@@ -21,7 +21,7 @@ pygmentsCodefencesGuessSyntax = true
 [params]
 title = "Théo Laurent"
 author = "Théo Laurent"
-#copyright = "2020-2021"
+copyright = ""
 description = "PhD Student @ INRIA Paris"
 profilePicture = "images/profile.jpg"
 keywords = ""
@@ -40,6 +40,7 @@ doNotLoadAnimations = true
 # indexDateFormat = "Mon, Jan 2, 2006"
 # listDateFormat = "Jan 2"
 # singleDateFormat = "Mon, Jan 2, 2006"
+# displayMode = "dark"
 
 [params.simpleAnalytics]
 # enable = true

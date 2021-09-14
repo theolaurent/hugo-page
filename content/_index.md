@@ -12,6 +12,22 @@ My current research topics are dependent types and subtyping.
 <!-- ## News -->
 <!-- POPL2021 SRC? -->
 
+# Recent Activities
+
+## Teaching
+
+#### 2021 -- 2022
+
+- Teaching Assistant, Math for Computer Sciences at Sorbonne Université.
+- Teaching Assistant, Functional Programming at Sorbonne Université.
+
+## Service
+
+- Artifact Evaluation Committee, POPL 2021.
+- Student Volunteer, ICFP 2020.
+
+# Before PhD
+
 ## Publications
 
 #### 2018
@@ -27,15 +43,9 @@ My current research topics are dependent types and subtyping.
 
 ## Teaching
 
-
 #### 2016 -- 2017
 
-- Teaching Assistant for an undergraduate mathematics course at Lycée Henry IV.
-
-## Service
-
-- Artifact Evaluation Committee, POPL 2021.
-- Student Volunteer, ICFP 2020.
+- Teaching Assistant, undergraduate mathematics course at Lycée Henry IV.
 
 ## Software Development
 
