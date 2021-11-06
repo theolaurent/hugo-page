@@ -26,7 +26,7 @@ My current research topics are dependent types and subtyping.
 - Artifact Evaluation Committee, POPL 2021.
 - Student Volunteer, ICFP 2020.
 
-# Before PhD
+# Before Enrolling in PhD Program
 
 ## Publications
 
